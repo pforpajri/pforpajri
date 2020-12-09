@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-3054
-Fork on GitHub
-515
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Pajri Zahrawaani Ahmad</h1>
 <h3 align="center">Literally a beginner backend web developer</h3>
 
