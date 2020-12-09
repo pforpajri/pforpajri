@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pforpajri&label=Profile%20views&color=0e75b6&style=flat" alt="pforpajri" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pforpajri" alt="pforpajri" /></a> </p>
-
 - 📝 I regularly write articles on [http://knicles.my.id/](http://knicles.my.id/)
 
 - 📫 How to reach me **pajriblueholigand@gmail.com**
@@ -24,4 +22,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pforpajri&show_icons=true&locale=en" alt="pforpajri" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pforpajri&" alt="pforpajri" /></p>
