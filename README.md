@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Pajri Zahrawaani Ahmad</h1>
 <h3 align="center">Literally a beginner backend web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pforpajri&label=Profile%20views&color=0e75b6&style=flat" alt="pforpajri" /> </p>
-
 - 📝 I regularly write articles on [http://knicles.my.id/](http://knicles.my.id/)
 
 - 📫 How to reach me **pajriblueholigand@gmail.com**
